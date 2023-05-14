@@ -1,2 +1,3 @@
-Once upon a time, there was a small village nestled in a valley surrounded by tall, majestic mountains. The villagers were a simple and happy people, living their lives in peace and harmony with nature.
-One day, a great storm descended upon the valley, bringing with it fierce winds and torrential rain. The river that ran through the village swelled and overflowed, flooding the homes and fields of the villagers. They were left with nothing but their clothes on their backs, their crops destroyed, and their spirits broken.
+Welcome to the "Create your own adventure"!
+
+Imagine you received a mysterious map that promised to lead you to a hidden cave filled with untold riches. Without hesitation, you set off on your journey, eager to uncover the secrets that lay ahead.
